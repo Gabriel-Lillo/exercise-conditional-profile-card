@@ -19,7 +19,7 @@ import "../style/index.scss";
         lastname: null,
         role: null,
         country: null,
-        city: null
+        city: null     intento de commit
     }
  */
 function render(variables = {}) {
